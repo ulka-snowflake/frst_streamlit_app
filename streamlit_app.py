@@ -1,1 +1,3 @@
-created the main python file.
+import streamlit
+
+streamlit.print("My parent's healthy diner")
